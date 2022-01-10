@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NoahKrossa, from Spain
 - 👀 I’m interested in Web development
-- 🌱 I’m currently learning NodeJS, ReactJS, Typescript...to be a full stack developer
+- 🌱 I’m currently learning NodeJS, MongoDB, ReactJS, Typescript...to be a full stack developer
 - 💞️ I’m looking to collaborate on Project related with websockets, interactive UI design, eCommerce managment software.
 - 📫 How to reach me 
   + Youtube: <a target="_blank" href="https://www.youtube.com/channel/UCWTBu46QuLp_uwhXKgo0u7w">Noah Krossa</a>
